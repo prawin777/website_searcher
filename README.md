@@ -3,5 +3,4 @@ Module that will fetch each web page from a text file and determine whether a se
 
 Constraints:
 Search is case insensitive.
-Should be concurrent.
-Takes upto 20 HTTP requests at any given time.
+Takes upto 20 concurrent HTTP requests at any given time.
